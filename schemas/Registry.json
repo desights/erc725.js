@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Users[]",
+    "key": "0xd5b67be76040d8dc1dfa133ad06b4c423b75496b566ab84e1b527e9dbdb63733",
+    "keyType": "Array",
+    "valueType": "address",
+    "valueContent": "Address"
+  },
+  {
+    "name": "UsersMap:<address>",
+    "key": "0xb69f963201fc4705ebbf0000<address>",
+    "keyType": "Mapping",
+    "valueType": "address",
+    "valueContent": "Address"
+  },
+  {
+    "name": "Organisations[]",
+    "key": "0xaa2e15ecc763afa72eaa4bf6efa953507bd82498615ae8a17cc29833695d9965",
+    "keyType": "Array",
+    "valueType": "address",
+    "valueContent": "Address"
+  },
+  {
+    "name": "Challenges",
+    "key": "0x7cd03e9174a6a691e354453d1b70cd99b3bc1153c1fd9c24a90900b14c96d99b",
+    "keyType": "Singleton",
+    "valueType": "bytes",
+    "valueContent": "Bytes"
+  },
+  {
+    "name": "Challenges:Organisation:<bytes4>",
+    "key": "0xdbf8d15ed3ab754e069d0000<bytes4>",
+    "keyType": "MappingWithGrouping",
+    "valueType": "address",
+    "valueContent": "Address"
+  },
+  {
+    "name": "Challenges:Meta:<bytes4>",
+    "key": "0x7cd03e9174a6e6b4b0480000<bytes4>",
+    "keyType": "MappingWithGrouping",
+    "valueType": "bytes",
+    "valueContent": "JSONURL"
+  },
+  {
+    "name": "Challenges:<bytes4>:Submissions[]",
+    "key": "0x7cd03e9174a6<bytes4>0000d55c3d9374cf30ff4811b6d53a266f51b5ae9302",
+    "keyType": "ArrayWithMapping",
+    "valueType": "address",
+    "valueContent": "Address"
+  },
+  {
+    "name": "Challenges:Details:<bytes4>",
+    "key": "0x7cd03e9174a68f430fef0000<bytes4>",
+    "keyType": "MappingWithGrouping",
+    "valueType": "bytes",
+    "valueContent": "Bytes"
+  },
+  {
+    "name": "Organisation:Challenges[]:<address>",
+    "key": "0x754e069d2045dbf8d15e0000<address>",
+    "keyType": "ArrayWithMapping",
+    "valueType": "bytes",
+    "valueContent": "Bytes"
+  },
+  {
+    "name": "Invites[]",
+    "key": "0x73ca7c1aa1cb75f3d010305225ba49773e3f9f4134844b91d1280da1d3ed443f",
+    "keyType": "Array",
+    "valueType": "address",
+    "valueContent": "Address"
+  },
+  {
+    "name": "Submissions",
+    "key": "0xbf2cc58a7abb917270e7dabdd028a7aade6c570dfadee280c0a254fe89e841e2",
+    "keyType": "Singleton",
+    "valueType": "bytes",
+    "valueContent": "Bytes"
+  },
+  {
+    "name": "Submissions:Details:<bytes4>",
+    "key": "0xbf2cc58a7abb8f430fef0000<bytes4>",
+    "keyType": "MappingWithGrouping",
+    "valueType": "bytes",
+    "valueContent": "Bytes"
+  },
+  {
+    "name": "Submissions:Meta:<bytes4>",
+    "key": "0xbf2cc58a7abbe6b4b0480000<bytes4>",
+    "keyType": "MappingWithGrouping",
+    "valueType": "bytes",
+    "valueContent": "JSONURL"
+  },
+  {
+    "name": "Reviews",
+    "key": "0xb0f05cbec47503d0b79339b34d8797cac41e3a66fa1725bf4b2647575db01845",
+    "keyType": "Singleton",
+    "valueType": "bytes",
+    "valueContent": "Bytes"
+  },
+  {
+    "name": "Reviews:Details:<bytes4>",
+    "key": "0xb0f05cbec4758f430fef0000<bytes4>",
+    "keyType": "MappingWithGrouping",
+    "valueType": "bytes",
+    "valueContent": "Bytes"
+  }
+]

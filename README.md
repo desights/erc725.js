@@ -1,6 +1,6 @@
 <p align="center">
- <h1 align="center"><strong>@erc725/erc725.js</strong></h1>
- <p align="center">Allows for interacting with <a href="https://github.com/lukso-network/LIPs/blob/master/LSPs/LSP-2-ERC725YJSONSchema.md">ERC725Y</a> compliant contracts on an EVM blockchain.</p>
+ <h1 align="center"><strong>@desights/erc725.js</strong></h1>
+ <p align="center">Allows for interacting with <a href="https://github.com/lukso-network/LIPs/blob/master/LSPs/LSP-2-ERC725YJSONSchema.md">ERC725Y</a> compliant Desights contracts on an EVM blockchain.</p>
 </p>
 
 <p align="center">

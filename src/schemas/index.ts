@@ -11,6 +11,9 @@ import LSP9Vault from '../../schemas/LSP9Vault.json';
 import LSP10ReceivedVaults from '../../schemas/LSP10ReceivedVaults.json';
 import LSP12IssuedAssets from '../../schemas/LSP12IssuedAssets.json';
 import LSP17ContractExtension from '../../schemas/LSP17ContractExtension.json';
+import OrganisationProfile from '../../schemas/OrganisationProfile.json';
+import Registry from '../../schemas/Registry.json';
+import UserProfile from '../../schemas/UserProfile.json';
 
 export default LSP1UniversalReceiverDelegate.concat(
   LSP3Profile,
@@ -23,4 +26,7 @@ export default LSP1UniversalReceiverDelegate.concat(
   LSP10ReceivedVaults,
   LSP12IssuedAssets,
   LSP17ContractExtension,
+  OrganisationProfile,
+  Registry,
+  UserProfile,
 ) as ERC725JSONSchema[];

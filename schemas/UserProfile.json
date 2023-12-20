@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ProfileData",
+    "key": "0x98599c25d967da20e4074e4a7f24b17119d5c67b23cd08284fb367d5208c2e67",
+    "keyType": "Singleton",
+    "valueType": "bytes",
+    "valueContent": "JSONURL"
+  },
+  {
+    "name": "Organisations[]",
+    "key": "0xaa2e15ecc763afa72eaa4bf6efa953507bd82498615ae8a17cc29833695d9965",
+    "keyType": "Array",
+    "valueType": "address",
+    "valueContent": "Address"
+  }
+]

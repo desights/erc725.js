@@ -1,7 +1,7 @@
 {
-  "name": "@erc725/erc725.js",
+  "name": "@desights/erc725.js",
   "version": "0.17.2",
-  "description": "Library to interact with ERC725 smart contracts",
+  "description": "Library to interact with ERC725 smart contract on Desights",
   "main": "build/main/src/index.js",
   "typings": "build/main/src/index.d.ts",
   "module": "build/module/src/index.js",
@@ -43,13 +43,17 @@
     {
       "name": "Callum Grindle",
       "url": "https://github.com/CallumGrindle"
+    },
+    {
+      "name": "Manan Patel",
+      "url": "https://github.com/innopreneur"
     }
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ERC725Alliance/erc725.js/issues"
+    "url": "https://github.com/desights/erc725.js/issues"
   },
-  "homepage": "https://github.com/ERC725Alliance/erc725.js#readme",
+  "homepage": "https://github.com/desights/erc725.js#readme",
   "devDependencies": {
     "@types/chai": "^4.3.4",
     "@types/isomorphic-fetch": "^0.0.36",
