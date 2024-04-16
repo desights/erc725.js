@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ERC725Alliance/erc725.js"
+    "url": "git+https://github.com/desights/erc725.js"
   },
   "keywords": [
     "ethereum",
