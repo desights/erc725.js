@@ -103,5 +103,12 @@
     "keyType": "MappingWithGrouping",
     "valueType": "bytes",
     "valueContent": "Bytes"
+  },
+  {
+    "name": "Teams[]",
+    "key": "0xd863645ae0852ff89e37edb0ef6f82dc0cafe2ff59802ebe81eae1b23f1f7e92",
+    "keyType": "Array",
+    "valueType": "address",
+    "valueContent": "Address"
   }
 ]
