@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.17.4](https://github.com/desights/erc725.js/compare/v0.17.3...v0.17.4) (2024-04-16)
+
 ### 0.17.3 (2024-04-16)
 
 
