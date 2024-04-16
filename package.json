@@ -1,6 +1,6 @@
 {
   "name": "@desights/erc725.js",
-  "version": "0.17.6",
+  "version": "0.17.7",
   "description": "Library to interact with ERC725 smart contract on Desights",
   "main": "build/main/src/index.js",
   "typings": "build/main/src/index.d.ts",
